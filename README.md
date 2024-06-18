@@ -1,1 +1,19 @@
-# how-to-buy-sakurazaka46-tickets.github.io
+### 怎么参与樱坂46现场演出门票FanClub抽选？
+
+# 前期准备
+
+**樱坂46FanClub帐号**
+**TixPlus帐号**
+**日本手机号码**
+
+# 参与抽选
+
+**抽选页面入口**
+
+
+# 获取门票
+
+**安装TixPlus APP**
+
+
+

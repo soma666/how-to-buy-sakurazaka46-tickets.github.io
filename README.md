@@ -5,7 +5,7 @@
 
 - [x] **樱坂46FanClub帐号**
   
-  > 进入  [樱坂FanClub](https://sakurazaka46.com/s/s46/page/about_fanclub?ima=0000)主页(此界面为移动浏览器专用，如果使用桌面浏览器，可以用开发者工具模拟器移动浏览器）<br>
+  > 进入  [樱坂FanClub](https://sakurazaka46.com/s/s46/page/about_fanclub?ima=0000)主页(此页面为移动浏览器专用，如果使用桌面浏览器，可以用开发者工具模拟器移动浏览器）<br>
   > 点击`会員登録はこちら`按钮，跟随提示注册帐号。<br>
   > 请注意加入樱坂46FanClub需要每月支付440日元的会费，可以通过信用卡支付。<br>
 
